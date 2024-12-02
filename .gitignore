@@ -1,0 +1,13 @@
+*.SchDoc.Zip
+*.PrjPcb.Zip
+*.PcbLib.Zip
+*.BomDoc.Zip
+History/Libraries/Schlib_Source_IoT.~(11).SchLib.Zip
+*.Zip
+*.SchDocPreview
+Project Logs for PCB_Project_Source_IoT/
+Layouts/PCB.html
+Layouts/PCB.txt
+Project Outputs for PCB_Project_Source_IoT/Design Rule Check - PCB.drc
+Project Outputs for PCB_Project_Source_IoT/Design Rule Check - PCB.html
+README.md
